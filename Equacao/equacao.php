@@ -24,8 +24,9 @@ $resposta = equacaosegundo($a,$b,$c);
 
 ?>
 <html>
-<?php include 'head.php'; ?>
+<?php include '../head.php'; ?>
 <body>
+<?php include '../nav.php'; ?>
     <div class="container">
     <div class="card">
         <h5 class="card-header">Resposta</h5>
